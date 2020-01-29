@@ -12,7 +12,10 @@ Conversation
     - contact
 - Messages
     - send
-    - modify/delete
+    - modify/delete, canModify/canDelete
     - receive
     - media (pic/video/audio)
     - history
+
+Hint: Group mapping to multiple must be managed by the caller, if groups not supporte by the messenger or group size is too small.
+
