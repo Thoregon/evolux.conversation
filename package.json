@@ -1,0 +1,23 @@
+{
+  "name": "thoregon.conversation",
+  "version": "1.0.0",
+  "description": "generalized conversation API to wrap arbitrary messengers",
+  "main": "index.js",
+  "directories": {
+    "doc": "doc"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thoregon/thoregon.conversation.git"
+  },
+  "keywords": [],
+  "author": "Bernhard Lukassen <bl@bernhard-lukassen.com> (http://www.bernhard-lukassen.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Thoregon/thoregon.conversation/issues"
+  },
+  "homepage": "https://github.com/Thoregon/thoregon.conversation#readme"
+}
